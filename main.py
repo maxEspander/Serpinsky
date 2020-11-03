@@ -1,7 +1,7 @@
 import tkinter as tk
 import random as rnd
 
-HEIGHT = 600
+HEIGHT = 800
 WIDTH = 800
 NUMBEROFPOINTS = 4
 
